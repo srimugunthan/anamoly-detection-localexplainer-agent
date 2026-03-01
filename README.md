@@ -26,6 +26,13 @@ An AI-powered agent that explains anomaly detection model predictions using **SH
 
 ---
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/c3c14ca1-4212-4d53-9637-50562285b2f3
+
+
 ## Prerequisites
 
 | Tool | Version | Install |
